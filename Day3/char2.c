@@ -4,7 +4,7 @@
 #include<stdio.h>
 
 int main(void) {
-	char ch;
+	int ch;
 	
 	ch = getchar();			// 한 문자를 읽어오는 함수
 	putchar(ch);			// 한 문자를 출력하는 함수
