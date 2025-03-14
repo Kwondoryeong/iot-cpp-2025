@@ -16,7 +16,7 @@
 	- 변수 생성 : 메모리 공간 할당 받음
 		- RAM : Random Access Memory, ROM : Read Only Memory
 		- RAM > 컴퓨터 부팅 시 운영체제 실행 > 메모리에 프로그램이 올라오면 실행됨 
-	- 레지스터 
+	- 레지스터 : cpu가 사용하는 연산 전용 메모리
 	- 변수 크기 : 자료형
 	- 변수명 없을 시 메모리 주소로 접근해야함
 	- 변수 이름은 주소 아님 > 주소 연산자 '%' 필요
@@ -129,3 +129,57 @@
 	//pn5 = num3;
 	num2 = 40;
 	```
+
+## 4일차
+- 문자열 : 문자열이 시작되는 시작주소
+	- 문자열 사용시 ""로 묶으면 데이터영역에 저장
+	- 문자열 함수 
+		- `gets`, `fgets` : 문자열 입력 함수(공백 입력 가능)
+		- stdin : 표준 입력 버퍼(입력 스트림)
+		- `puts`, `fputs` : 문자열 출력 함수 
+		- stdout : 표준 출력 버퍼(스트림)
+		- `strlen` : 문자열 길이 계산
+		- `strcpy`, strncpy : 문자열 복사, strcpy(str1, str2) > str1(원본)에 str2(복사본)을 복사 
+		- `strcmp` - 문자열 비교 함수(사전순) > strcmp(str1, str2) > str1 우선 검색시 -1반환, str2 검색시 1반환, 같으면 0 반환
+		- `strcat`, `strncat` - 문자열을 붙히는 함수
+		```c
+		char str[100] = "Orange";
+		char str2[100] = "apple";
+		/* gets, fgets */
+		printf("공백을 포함한 입력 >> ");
+		gets(str);						// gets(입력) gets함수는 입력 필요
+		fgets(str, sizeof(str), stdin); // 저장할 버퍼 크기, stdin : 표준입력버퍼, 파일입출력 가능
+		/* puts, fputs */
+		printf("%s\n", str);			// 서식문자에 따라 여러 자료형 출력가능, 무거움
+		puts(str);						// 문자열 전용, 가벼움, 자동개행
+		fputs(str, stdout);				// fputs는 크기 작성 미필요, 개행안됨
+		/* strlen */
+		printf("str 문자열 길이: %d", strlen(str)); // 널문자 카운트X
+		/* strcpy */
+		strcpy(str, str2);				// strcpy(원본, 복사) > str에 str2 복사 
+		strncpy(str, "abcd", 3);		// 시작주소부터 복사할 문자갯수를 설정
+		/* strcmp */
+		if (strcmp(str, str2) > 0)		// a가 o보다 사전순으로 빠름
+			printf("str: %s\n", str);
+		/* strcat */
+		strcat(str, "banana");
+		strncat(str, "ORANGE", 3);		// 시작주소부터 연결할 문자갯수를 설정
+		```
+
+- 메모리 
+	- 코드세그먼트
+		- 함수, 제어문, 명령어 저장
+    - 데이터세그먼트 
+		- 힙 : 사용자에게 할당된 메모리 영역(메모리 동적 할당)
+		- stack : 지역변수, 매개변수
+		- Data : 전역변수, static
+		- Rod : 문자열 상수, 리터럴 스택
+- 전역변수 : 프로그램 전체
+- 지역변수 : 블록안에서만 사용, 매개변수, 자동변수
+- 정적변수 : 전역 + 지역
+
+- 포인터
+	- 포인터 	  : [C언어](./Day3/pointer.c)
+	- 이중포인터  :	[C언어](./Day4/dpointer.c) [C언어_2](./Day4/dpointer2.c)
+	- 배열 포인터 : [C언어](./Day4/arrayPointer.c)
+	- 포인터 배열 : [C언어](./Day4/pointArray.c)

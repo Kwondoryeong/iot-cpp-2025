@@ -37,6 +37,7 @@ void calculator() {
         }
 
         printf("두 번째 숫자를 입력하세요: ");
+        while (getchar() != '\n'); // 버퍼 비우기
         if (scanf("%f", &num2) != 1) {
             printf("오류: 유효한 숫자를 입력하세요.\n");
             while (getchar() != '\n'); // 버퍼 비우기
@@ -44,6 +45,7 @@ void calculator() {
         }
 
         printf("연산자를 입력하세요 (+, -, *, /, q 종료): ");
+        while (getchar() != '\n'); // 버퍼 비우기
         scanf("%c", &op);
         if (op == 'q' || op == 'Q') {
             printf("계산기를 종료합니다.\n");
