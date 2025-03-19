@@ -13,7 +13,7 @@ int main() {
 	pint = new int{ 10 };
 
 	cout << parr[0] << ", " << parr[1] << ", " << parr[2] << endl;
-	delete[] parr; // delete[] : delete자료형
+	delete[] parr; // delete[] : 배열 delete 시
 	delete pint;
 	return 0;
 }
