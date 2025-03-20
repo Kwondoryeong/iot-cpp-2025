@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|solutionrelative:static.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\operator2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|solutionrelative:operator2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|solutionrelative:operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|solutionrelative:static3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|solutionrelative:static2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\BankingSystemVer01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|solutionrelative:BankingSystemVer01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\BankingSystemVer02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D1D0DD-2D12-4696-8430-C41CB1EC9303}|BankingSystem.vcxproj|solutionrelative:BankingSystemVer02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operator2.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\operator2.cpp",
+              "RelativeDocumentMoniker": "operator2.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\operator2.cpp",
+              "RelativeToolTip": "operator2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T08:07:09.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "operator.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\operator.cpp",
+              "RelativeDocumentMoniker": "operator.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\operator.cpp",
+              "RelativeToolTip": "operator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T07:45:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "static3.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static3.cpp",
+              "RelativeDocumentMoniker": "static3.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static3.cpp",
+              "RelativeToolTip": "static3.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T07:15:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "static2.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static2.cpp",
+              "RelativeDocumentMoniker": "static2.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static2.cpp",
+              "RelativeToolTip": "static2.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T06:57:24.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "static.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static.cpp",
+              "RelativeDocumentMoniker": "static.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\static.cpp",
+              "RelativeToolTip": "static.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T06:43:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankingSystemVer01.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\BankingSystemVer01.cpp",
+              "RelativeDocumentMoniker": "BankingSystemVer01.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\BankingSystemVer01.cpp",
+              "RelativeToolTip": "BankingSystemVer01.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T06:03:52.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankingSystemVer02.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\BankingSystemVer02.cpp",
+              "RelativeDocumentMoniker": "BankingSystemVer02.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\BankingSystem\\BankingSystemVer02.cpp",
+              "RelativeToolTip": "BankingSystemVer02.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T05:21:07.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
