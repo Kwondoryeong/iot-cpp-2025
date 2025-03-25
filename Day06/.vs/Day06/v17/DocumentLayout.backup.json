@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\weak_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:weak_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\unique_prt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:unique_prt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:tempobj3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\const_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:const_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\dynamic_cast2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:dynamic_cast2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\dynamic_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:dynamic_cast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:tempobj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:tempobj2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\reinterpret.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:reinterpret.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\const_cast2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A083E3D-93DE-408F-8C75-D8AC281BBEA3}|Day06.vcxproj|solutionrelative:const_cast2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "weak_ptr.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\weak_ptr.cpp",
+              "RelativeDocumentMoniker": "weak_ptr.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\weak_ptr.cpp",
+              "RelativeToolTip": "weak_ptr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T05:03:49.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shared_ptr.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\shared_ptr.cpp",
+              "RelativeDocumentMoniker": "shared_ptr.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\shared_ptr.cpp",
+              "RelativeToolTip": "shared_ptr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T04:52:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "unique_prt.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\unique_prt.cpp",
+              "RelativeDocumentMoniker": "unique_prt.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\unique_prt.cpp",
+              "RelativeToolTip": "unique_prt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T03:14:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tempobj3.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj3.cpp",
+              "RelativeDocumentMoniker": "tempobj3.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj3.cpp",
+              "RelativeToolTip": "tempobj3.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T02:31:40.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tempobj2.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj2.cpp",
+              "RelativeDocumentMoniker": "tempobj2.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj2.cpp",
+              "RelativeToolTip": "tempobj2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T02:14:37.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tempobj.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj.cpp",
+              "RelativeDocumentMoniker": "tempobj.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\tempobj.cpp",
+              "RelativeToolTip": "tempobj.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T02:05:14.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "reinterpret.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\reinterpret.cpp",
+              "RelativeDocumentMoniker": "reinterpret.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\reinterpret.cpp",
+              "RelativeToolTip": "reinterpret.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T01:25:30.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "const_cast2.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\const_cast2.cpp",
+              "RelativeDocumentMoniker": "const_cast2.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\const_cast2.cpp",
+              "RelativeToolTip": "const_cast2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T01:17:13.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "const_cast.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\const_cast.cpp",
+              "RelativeDocumentMoniker": "const_cast.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\const_cast.cpp",
+              "RelativeToolTip": "const_cast.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T01:06:42.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dynamic_cast2.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\dynamic_cast2.cpp",
+              "RelativeDocumentMoniker": "dynamic_cast2.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\dynamic_cast2.cpp",
+              "RelativeToolTip": "dynamic_cast2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T00:38:45.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dynamic_cast.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\dynamic_cast.cpp",
+              "RelativeDocumentMoniker": "dynamic_cast.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\iot-cpp-2025\\Day06\\dynamic_cast.cpp",
+              "RelativeToolTip": "dynamic_cast.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T00:24:49.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -168,4 +168,68 @@ C++
 		- 따라서 상위 클래스의 소멸자를 가상으로 만들어 실타입의 소멸자호출을 유도
 		- 객체 생성 시 부모 생성자가 먼저 실행되며, 소멸자는 자식부터 실행됨
 		- virtual이 선언된 함수는 부모 포인터를 통해 호출하면 자식의 오버라이딩된 함수가 실행
-		- 부모 클래스의 소멸자는 virtual로 선언하지 않으면 동적 할당된 객체를 delete할 때 자식의 소멸자가 호출되지 않을 수 있음
+		- 부모 클래스의 소멸자는 virtual로 선언하지 않으면 동적 할당된 객체를 delete할 때 자식의 소멸자가 호출되지 않을 수 
+	Upcasting을 해야 자식의 다형성
+
+## 6일차
+- dynamic cast
+- const cast
+- temp object
+- 표준템플릿라이브러리(STL:Standard Template Library) - 템플릿:다형성
+- 컨테이너(container) : 객체를 저장하고 관리하는 자료구조
+- 컨테이너 종류 
+	1. 시퀀스 컨테이너(Sequence Containers) : 데이터 순차적(선형적)으로 저장, vector, list, queue
+	2. 연관 컨테이너(Associative Containers) : 일정한 규칙으로 저장, set, multiset, map, multimap
+	3. 컨테이너 어댑터(Unordered Containers) : 변형, 
+
+- 벡터 : 동적 크기를 가지는 배열 기반 컨테이너(순차 컨테이너 중 하나)
+	- `<vector>` 헤더 파일 포함
+	- 벡터 capacity는 메모리공간을 먼저 만들고 다차면 알아서 크기를 늘림
+	- vector.begin(): begin()은 첫번째 주소 반환(포인터)
+	- vector.end(): end()는 마지막의 다음 주소 반환(마지막 값은 반환은 end() -1)
+	- vector.size(): 원소 크기(갯수)를 반환
+	- capacity() : 벡터에 할당된 메모리 크기를 리턴 - v.size()와 다름
+	- push_back(10) : 마지막 원소 뒤에 10을 추가한다.
+	- v.insert(idx, val): idx번째 위치에 val을 넣는다.
+	- insert(v.begin(), 1) : 1번자리에 v벡터의 첫번째 값 삽입
+	- pop_back() : 맨 마지막 원소 제거
+
+- C++, MySQL 연동
+- Mysql Connector 설치
+- url="https://dev.mysql.com/downloads/file/?id=537660"
+- 다운 받은 Mysql Connector 파일들 program files에 넣기
+- 프로젝트 - 속성
+	- VC++ 디렉터리 - 포함 디렉터리 - `C:\Program Files\mysql-connector-c++-9.2.0-winx64\include` 추가
+	- VC++ 디렉터리 - 라이브러리 디렉터리 - `C:\Program Files\mysql-connector-c++-9.2.0-winx64\lib64\vs14` 추가
+	- 링커 - 입력 - 추가 종속성 - C:\Program Files\mysql-connector-c++-9.2.0-winx64\lib64\debug\vs14\에 있는 `mysqlcppconn.lib` 입력, 추가
+
+- 3개의 동적라이브러리 파일을 프로젝트 파일에 복사
+	- C:\Program Files\mysql-connector-c++-9.2.0-winx64\lib64 - `libcrypto-3-x64.dll`, `libssl-3-x64.dll` 2파일
+	- C:\Program Files\mysql-connector-c++-9.2.0-winx64\lib64\debug - `mysqlcppconn-10-vs14.dll` 1파일
+
+-[C++](./DB/DB.cpp) DB연결 코드 작성
+
+```c++
+	#include<iostream>
+	#include <mysql/jdbc.h>
+
+	using namespace std;
+	using namespace sql;
+
+	int main() {
+		try {
+			mysql::MySQL_Driver* driver;
+			Connection* con;
+
+			driver = mysql::get_mysql_driver_instance();		// 드라이버 인터페이스 생성
+			con = driver->connect("tcp://127.0.0.1:3306", "madang", "12345");	// driver 포인터 이므로->
+			con->setSchema("madang");
+			cout << "Connection successful!!" << endl;			// 연결이 됐다면
+		}	
+		catch (SQLException& e) {								// 연결 안됐다면
+			cerr << "MySQL Connection failed!!" << e.what() << endl;
+		}
+
+		return 0;
+	}
+```
