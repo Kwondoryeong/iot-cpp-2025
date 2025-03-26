@@ -200,7 +200,7 @@ C++
 - 다운 받은 Mysql Connector 파일들 program files에 넣기
 - 프로젝트 - 속성
 	- VC++ 디렉터리 - 포함 디렉터리 - `C:\Program Files\mysql-connector-c++-9.2.0-winx64\include` 추가
-	- VC++ 디렉터리 - 라이브러리 디렉터리 - `C:\Program Files\mysql-connector-c++-9.2.0-winx64\lib64\vs14` 추가
+	- VC++ 디렉터리 - 라이브러리 디렉터리 - `C:\Program Files\mysql-connector-c++-9.2.0-winx64\lib64\debug\vs14` 추가
 	- 링커 - 입력 - 추가 종속성 - C:\Program Files\mysql-connector-c++-9.2.0-winx64\lib64\debug\vs14\에 있는 `mysqlcppconn.lib` 입력, 추가
 
 - 3개의 동적라이브러리 파일을 프로젝트 파일에 복사
