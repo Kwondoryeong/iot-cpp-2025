@@ -1,3 +1,2 @@
 ﻿  DB_Class.cpp
-C:\Work\C++\iot-cpp-2025\DB\DB_Class.cpp(33,24): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
   DB.vcxproj -> C:\Work\C++\iot-cpp-2025\DB\x64\Debug\DB.exe
